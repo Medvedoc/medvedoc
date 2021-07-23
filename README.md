@@ -23,3 +23,7 @@ Latest Youtube videos
 [![Vk](https://img.shields.io/badge/-Vk-090909?style=for-the-badge&logo=vk&logoColor=4E7DB2)]()
 [![Twitter](https://img.shields.io/badge/-Twitter-090909?style=for-the-badge&logo=twitter&logoColor=3FA6DA)]()
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=4064AC)]()
+[![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=Codepen&logoColor=ffffff)]()
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true&hide=contribs,prs)
