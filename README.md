@@ -25,12 +25,11 @@ Latest Youtube videos
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=4064AC)]()
 [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=Codepen&logoColor=cccccc)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medvedoc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div>
+<div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medvedoc&layout=compact" />
-</a>
+</div>
+<div>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0" />
+</div>
+</div>
