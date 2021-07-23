@@ -25,7 +25,10 @@ Latest Youtube videos
 [![Facebook](https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=facebook&logoColor=4064AC)]()
 [![Codepen](https://img.shields.io/badge/-Codepen-090909?style=for-the-badge&logo=Codepen&logoColor=cccccc)]()
 
+
+### yer
 [![text1](assets/bg.png)]()|[![text1](assets/bg.png)]()
+### glkglk
 <a>
             <img align="center" src="https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0" />
         </a>
