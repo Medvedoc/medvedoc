@@ -1,12 +1,12 @@
 [![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
 
-<h3 align="center" style="font-size:24px;">
+<h3 align="center">
 Welcome to my page! Glad to see you! I am Rustem.
 </h3>
 
-<p>
+<h4>
 For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.
-</p>
+</h4>
 
 My workspace:
 ![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
