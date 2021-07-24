@@ -13,6 +13,11 @@
 <div>For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.</div>
 <br/>
 <div align="center">
+<h3>My resume and portfolio:</h3>
+<img src="https://img.shields.io/badge/DETAILS-00457C?style=for-the-badge&logo=&logoColor=white">
+</div>
+<br/>
+<div align="center">
 <h3>My workspace:</h3>
 <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Intel-Core_i5_8300H-0071C5?style=for-the-badge&logo=intel&logoColor=white">
@@ -90,6 +95,7 @@
 <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
+<br/>
 <br/>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0" />
