@@ -38,10 +38,19 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
 </div>
+
+<div align="center">
+<h3>Development of applications and themes for CMS:</h3>
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+<img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white">
+<img src="https://img.shields.io/badge/Wordpress-3F84AE?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/Joomla-529F57?style=for-the-badge&logo=joomla&logoColor=white">
+</div>
+
 <br/>
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=wordpress&logoColor=white">
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=joomla&logoColor=white">
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
@@ -54,26 +63,7 @@ I'm Rustem Mukminov
 and i love HTML, CSS, Javascript.
 
 
-Latest Youtube videos
 
-### Languages and Tools
-![HTML5]()
-![CSS3]()
-![Javascript]()
-![C#]()
-![Dart]()
-![Flutter]()
-
-### Languages and Tools
-
-![Flutter]()
-![SASS]()
-![Bootstrap]()
-![Material UI]()
-![jQuery]()
-![Firebase]()
-![Git]()
-![Chart](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
 
 ### Web Browsers
 ![Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
@@ -82,9 +72,6 @@ Latest Youtube videos
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 
 ### OS
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
 ### IDE
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
