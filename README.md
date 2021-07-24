@@ -37,10 +37,11 @@
 <img src="https://img.shields.io/badge/MySql-31535E?style=for-the-badge&logo=mysql&logoColor=EAAB62">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 </div>
 <br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=wordpress&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=joomla&logoColor=white">
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
