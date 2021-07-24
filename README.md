@@ -1,9 +1,14 @@
 [![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
 
 <p align="center">
-<a href="https://www.buymeacoffee.com/yamedvedoc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yamedvedoc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+<a href="https://www.buymeacoffee.com/yamedvedoc"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=yamedvedoc&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff">
+</a>
 </p>
-About me
+
+### About me
+I'm Rustem Mukminov
+and i love HTML, CSS, Javascript.
+
 
 Latest Youtube videos
 
