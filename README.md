@@ -1,7 +1,7 @@
 [![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
-<h2 align="center" style="border:none">
+<h3 align="center" style="font-size:24px;">
 Welcome to my page! Glad to see you! I am Rustem.
-</h2>
+</h3>
 <p>
 For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.
 </p>
