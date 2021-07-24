@@ -3,16 +3,18 @@
 <div align="center">
 <h2>Welcome to my page! Glad to see you! I am Rustem.</h2>
 </div>
-<br/>
 <div>For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.</div>
+<br/>
+<div align="center">
+<h3>My workspace:</h3>
+<img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img src="https://img.shields.io/badge/Intel-Core_i5_8300H-0071C5?style=for-the-badge&logo=intel&logoColor=white">
+<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</div>
 
 
 
-My workspace:
-![Windows](https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Intel](https://img.shields.io/badge/Intel-Core_i5_8300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
-![NVidea](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 Music for work:
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
