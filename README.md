@@ -1,9 +1,9 @@
 [![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
 
 <div align="center">
-<br/>
 <h2>Welcome to my page! Glad to see you! I am Rustem.</h2>
 </div>
+<br/>
 <div>For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.</div>
 
 
