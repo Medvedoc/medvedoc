@@ -1,7 +1,7 @@
 [![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
 
 <div align="center">
-<h2>Welcome to my page! Glad to see you! I am Rustem.</h2>
+<h2>Welcome to my page! Glad to see you!</h2>
 </div>
 <div>For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.</div>
 <br/>
@@ -12,16 +12,15 @@
 <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
 <img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
-
-
-
-
-Music for work:
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)]()
-[![Youtube music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]()
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)]()
-
+<br/>
+<div align="center">
+<h3>Music for work:</h3>
+<img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">
+<img src="https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white">
+<img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white">
+<img src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white">
+</div>
+<br/>
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
