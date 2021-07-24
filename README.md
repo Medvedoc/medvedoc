@@ -83,7 +83,6 @@
 <a href="#"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white">
 </div>
 <div align="center">
-<h3>Follow me</h3>
 <a href="#"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 <a href="#"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
 <a href="#"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white">
@@ -91,6 +90,7 @@
 <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
+<br/>
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medvedoc&show_icons=true&bg_color=000000&text_color=ffffff&border_color=ffffff&border_radius=0" />
