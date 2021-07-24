@@ -1,7 +1,7 @@
 [![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
-
+<h3 align="center">
 Welcome to my page! Glad to see you! I am Rustem.
-
+</h3>
 For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.
 
 My workspace:
@@ -9,6 +9,13 @@ My workspace:
 ![Intel](https://img.shields.io/badge/Intel-Core_i5_8300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 ![RAM](https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white)
 ![NVidea](https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+
+Music for work:
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
+[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)]()
+[![Youtube music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]()
+[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)]()
+
 <p align="center">
 <a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
 <a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
@@ -94,11 +101,6 @@ Latest Youtube videos
 [![](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]()
 
 
-### Music
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)]()
-[![Deezer](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)]()
-[![Youtube music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)]()
-[![Soundcloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)]()
 
 
 <p align="center">
