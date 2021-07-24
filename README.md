@@ -1,5 +1,12 @@
-[![Header](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)](https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png)
-
+<div align="center"><img src="https://github.com/Medvedoc/medvedoc/blob/main/assets/bg.png">
+</div>
+<br/>
+<div align="center">
+<a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
+<a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
+</div>
 <div align="center">
 <h2>Welcome to my page! Glad to see you!</h2>
 </div>
@@ -65,44 +72,6 @@
 <img src="https://img.shields.io/badge/Wordpress-3F84AE?style=for-the-badge&logo=wordpress&logoColor=white">
 <img src="https://img.shields.io/badge/Joomla-529F57?style=for-the-badge&logo=joomla&logoColor=white">
 </div>
-
-<br/>
-<p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"></a>
-<a href="#"><img src="https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
-<a href="#"><img src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white"></a>
-</p>
-
-### About me
-I'm Rustem Mukminov
-and i love HTML, CSS, Javascript.
-
-
-
-
-### Web Browsers
-
-### OS
-
-### IDE
-
-### Store
-
-
-### Office
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-
-### Design
-
-### Education
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-
-
 ### Follow me
 [![Youtube](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 [![Youtube](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)]()
