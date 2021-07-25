@@ -14,7 +14,7 @@
 <br/>
 <div align="center">
 <h3>My resume and portfolio:</h3>
-<img src="https://img.shields.io/badge/DETAILS-00457C?style=for-the-badge&logo=&logoColor=white">
+<a href="https://medvedoc.github.io/"><img src="https://img.shields.io/badge/DETAILS-00457C?style=for-the-badge&logo=&logoColor=white"></a>
 </div>
 <br/>
 <div align="center">
