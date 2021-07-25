@@ -18,6 +18,9 @@
 </div>
 <br/>
 <div align="center">
+<a href="https://www.codewars.com/users/Medvedoc"><img src="https://www.codewars.com/users/Medvedoc/badges/large"></a>
+</div>
+<div align="center">
 <h3>My workspace:</h3>
 <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Intel-Core_i5_8300H-0071C5?style=for-the-badge&logo=intel&logoColor=white">
@@ -90,9 +93,7 @@
 <div align="center">
 <a href="https://dribbble.com/Mukminov"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white">
 <a href="https://www.behance.net/Medvedoc629a"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white">
-<a href="#"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white">
 <a href="https://www.pinterest.ru/metrologik/rustem-mukminov/"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white">
-<a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </div>
 <br/>
