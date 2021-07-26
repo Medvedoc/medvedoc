@@ -20,6 +20,10 @@
 <div align="center">
 <a href="https://www.codewars.com/users/Medvedoc"><img src="https://www.codewars.com/users/Medvedoc/badges/large"></a>
 </div>
+<img src="https://img.shields.io/github/languages/top/Medvedoc/codewars">
+<img src="https://img.shields.io/github/languages/code-size/Medvedoc/codewars">
+
+
 <div align="center">
 <h3>My workspace:</h3>
 <img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=windows&logoColor=white">
