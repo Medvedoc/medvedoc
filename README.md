@@ -7,6 +7,7 @@
 <!--<a href="#"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>-->
 <a href="https://ko-fi.com/medvedoc"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white"></a>
 </div>
+<br/>
 <div align="center">
 <a href="https://www.codewars.com/users/Medvedoc"><img src="https://www.codewars.com/users/Medvedoc/badges/large"></a>
 </div>
@@ -19,9 +20,6 @@
 <h3>My resume and portfolio:</h3>
 <a href="https://medvedoc.github.io/"><img src="https://img.shields.io/badge/DETAILS-00457C?style=for-the-badge&logo=&logoColor=white"></a>
 </div>
-<br/>
-
-
 <!--<img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=About.me&logoColor=white" />
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white" />
 <img src="https://img.shields.io/badge/AppStore-0D96F6?style=for-the-badge&logo=App-Store&logoColor=white" />
@@ -66,9 +64,9 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/Google Chrome-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft Edge-0078D7?style=for-the-badge&logo=Microsoft Edge&logoColor=white" />
+<img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft Edge&logoColor=white" />
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />
 <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" />
 <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=Visual Studio Code&logoColor=white" />
