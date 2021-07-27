@@ -102,11 +102,11 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=JSON&logoColor=white" />
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=Sass&logoColor=white" />
-<img src="https://img.shields.io/badge/Material-UI-0081CB?style=for-the-badge&logo=Material-UI&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
-<img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=white" />
+<img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=Material-UI&logoColor=white" />
 </div>
 <div align="center">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+<img src="https://img.shields.io/badge/Less-1D365D?style=for-the-badge&logo=Less&logoColor=white" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white" />
