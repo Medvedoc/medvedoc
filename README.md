@@ -8,6 +8,9 @@
 <a href="https://ko-fi.com/medvedoc"><img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=Ko-fi&logoColor=white"></a>
 </div>
 <div align="center">
+<a href="https://www.codewars.com/users/Medvedoc"><img src="https://www.codewars.com/users/Medvedoc/badges/large"></a>
+</div>
+<div align="center">
 <h2>Welcome to my page! Glad to see you!</h2>
 </div>
 <div>For me, web development is a lifestyle, in the process of which you learn what you like and what brings pleasure anytime, anywhere. I plunge headlong into the code in a completely different reality and it brings me great pleasure.</div>
@@ -17,9 +20,6 @@
 <a href="https://medvedoc.github.io/"><img src="https://img.shields.io/badge/DETAILS-00457C?style=for-the-badge&logo=&logoColor=white"></a>
 </div>
 <br/>
-<div align="center">
-<a href="https://www.codewars.com/users/Medvedoc"><img src="https://www.codewars.com/users/Medvedoc/badges/large"></a>
-</div>
 
 
 <!--<img src="https://img.shields.io/badge/About.me-00A98F?style=for-the-badge&logo=About.me&logoColor=white" />
