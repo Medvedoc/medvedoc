@@ -113,6 +113,8 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=Dart&logoColor=white" />
 <img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white" />
 <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white">
+</div>
+<div align="center">
 <img src="https://img.shields.io/badge/Font Awesome-339AF0?style=for-the-badge&logo=Font Awesome&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white" />
 <img src="https://img.shields.io/badge/Google Fonts-4285F4?style=for-the-badge&logo=Google Fonts&logoColor=white" />
