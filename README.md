@@ -64,7 +64,7 @@
 </div>
 <br/>
 <div align="center">
-<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google Chrome&logoColor=white" />
+<img src="https://img.shields.io/badge/Chrome-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
 <img src="https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white" />
 <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft Edge&logoColor=white" />
 <img src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white" />
