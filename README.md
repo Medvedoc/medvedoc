@@ -59,11 +59,10 @@
 
 <div align="center">
 <h3>My workspace:</h3>
-<img src="https://img.shields.io/badge/ASUS-Laptop-000000?style=for-the-badge&logo=ASUS&logoColor=white" />
-<img src="https://img.shields.io/badge/Windows-10-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
-<img src="https://img.shields.io/badge/Intel-Core_i5-0071C5?style=for-the-badge&logo=Intel&logoColor=white" />
-<img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
-<img src="https://img.shields.io/badge/NVIDIA-GTX1050-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" />
+<img src="https://img.shields.io/badge/ASUS-000000?style=for-the-badge&logo=ASUS&logoColor=white" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Intel-0071C5?style=for-the-badge&logo=Intel&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white" />
 </div>
 <br/>
 <div align="center">
